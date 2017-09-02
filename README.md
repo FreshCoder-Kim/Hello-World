@@ -1,5 +1,5 @@
 # Hello-World
 
-  This is my first GitHub Docunment..
+  This is my 1st GitHub Docunment..
   
        09/Feb/2017
